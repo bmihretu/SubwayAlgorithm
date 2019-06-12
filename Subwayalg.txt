@@ -1,0 +1,17 @@
+									Subway Algorithm
+	Exit the door for this building
+		Turn left
+	Walk Straight until you see a plant
+		Turn right
+	Enter the elevator 
+		Go to first floor
+	Exit the elevator
+		Turn left and keep going till the end of the hallway
+		Turn left again
+	Exit building
+		Turn right
+	Keep going straight to the end of the sidewalk
+		Turn right
+	Keep going straight to the end of the sidewalk
+		Cross the road
+	Subway is in front of you after you cross the road
